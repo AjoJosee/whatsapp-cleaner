@@ -59,7 +59,8 @@ Want it running 24/7 without keeping your laptop open? Deploy it to a Linux VM (
 If this saved your phone storage (or your sanity), consider dropping a tip! 
 
 - **🇮🇳 India (UPI):** `ajojose12345678910@oksbi`
-  - *If you are reading this on your phone, [click here to open your UPI app automatically](upi://pay?pa=ajojose12345678910@oksbi&pn=Developer&cu=INR)!*
+  - *Scan this QR code from any UPI app:*<br>
+  ![UPI QR Code](https://upiqr.in/api/qr?vpa=ajojose12345678910@oksbi&name=Ajo)
 
 ## ⚠️ Disclaimer
 This is an unofficial automation tool. It is not affiliated with WhatsApp or Meta. Use at your own risk.
