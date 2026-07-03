@@ -60,8 +60,12 @@ Want it running 24/7 without keeping your laptop open? Deploy it to a Linux VM (
 If this saved your phone storage (or your sanity), consider dropping a tip! 
 
 - **🇮🇳 India (UPI):** `ajojose12345678910@oksbi`
-  - *Scan this QR code from any UPI app:*<br>
-  ![UPI QR Code](https://quickchart.io/qr?text=upi%3A%2F%2Fpay%3Fpa%3Dajojose12345678910%40oksbi%26pn%3DAjo%26cu%3DINR&size=200)
+
+<details>
+  <summary>📷 Click here to show QR Code</summary>
+  <br>
+  <img src="https://quickchart.io/qr?text=upi%3A%2F%2Fpay%3Fpa%3Dajojose12345678910%40oksbi%26pn%3DAjo%26cu%3DINR&size=200" width="200" alt="UPI QR Code">
+</details>
 
 ## ⚠️ Disclaimer
 This is an unofficial automation tool. It is not affiliated with WhatsApp or Meta. Use at your own risk.
