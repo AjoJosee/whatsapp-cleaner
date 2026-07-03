@@ -25,6 +25,7 @@ This is a lightweight, headless Node.js bot that silently runs in the background
    ```bash
    npm start
    ```
+   *(Pro tip: If you want it to run silently in the background without keeping your terminal open all day, install PM2 with `npm install -g pm2`, and then run `pm2 start server.js`)*
 4. A QR code will appear in your terminal. Open WhatsApp on your phone -> Linked Devices -> Link a Device, and scan the terminal screen.
 
 ## ☁️ Deployment (Cloud VM / Azure / AWS)
