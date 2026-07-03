@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-duplicate-remover",
+  "version": "1.0.0",
+  "description": "WhatsApp Duplicate Remover",
+  "main": "main.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest"
+  },
+  "devDependencies": {
+    "electron": "latest"
+  }
+}
