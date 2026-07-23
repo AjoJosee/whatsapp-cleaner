@@ -9,7 +9,7 @@ This is a lightweight, headless Node.js bot that silently runs in the background
 ## ✨ Features
 
 - **Media Hashing:** Downloads images/videos/docs, calculates a SHA-256 hash, and deletes exact duplicates.
-- **Fuzzy Text Matcher:** Strips emojis, punctuation, and spaces before comparing text. (e.g., `Happy Bday 🎂!!` and `happybday` are treated as the same spam and deleted).
+- **Fuzzy Text Matcher:** Strips emojis, punctuation, and spaces before comparing text.
 - **Short-Text Safe:** Ignores normal short conversation texts (like "ok", "sure") unless they are explicitly forwarded.
 - **30-Day Memory:** Keeps a rolling 30-day memory of message signatures to prevent long-term spam cycles without eating up disk space.
 - **Headless Chrome:** Built on `whatsapp-web.js` and Puppeteer. Runs perfectly on a cloud VM.
@@ -68,4 +68,4 @@ If this saved your phone storage (or your sanity), consider dropping a tip!
 </details>
 
 ## ⚠️ Disclaimer
-This is an unofficial automation tool. It is not affiliated with WhatsApp or Meta. Use at your own risk.
+Whatsapp keeps on updating constantly and this js package is lagging behind. So use baileys which is lightweight and have more control
